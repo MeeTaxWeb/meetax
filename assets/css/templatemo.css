@@ -158,6 +158,10 @@ body, ul, li, p, a, label, input, div {
   font-size: 37px !important;
 }
 
+.mx-auto {
+  padding: 0px 80px;
+}
+
 }
 
 

@@ -20,6 +20,11 @@ body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
   font-size: 22px !important;
 }
+
+.navbar-brand img{
+  height: 50px;
+}
+
 /* General */
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
@@ -161,6 +166,12 @@ body, ul, li, p, a, label, input, div {
 
 .mx-auto {
   padding: 0px 80px;
+}
+
+.navbar-brand img{
+  height: 45px;
+  position: relative;
+  top: 6px;
 }
 
 }

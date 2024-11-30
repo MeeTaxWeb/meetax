@@ -148,6 +148,7 @@ body, ul, li, p, a, label, input, div {
   .carousel-control-next,
   .carousel-control-prev {
     transform: scale(0.5);
+    display: none;
 }
 
 .p-5 {

@@ -143,6 +143,25 @@ body, ul, li, p, a, label, input, div {
   .tempaltemo-carousel .h1 { font-size: 1em !important;}
 }
 
+@media (max-width: 700px) {
+
+  .carousel-control-next,
+  .carousel-control-prev {
+    transform: scale(0.5);
+}
+
+.p-5 {
+  padding: 1rem !important;
+}
+
+.text-success {
+  font-size: 37px !important;
+}
+
+}
+
+
+
 /*// Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
   #templatemo_main_nav .navbar-nav {max-width: 450px;}

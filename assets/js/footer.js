@@ -54,7 +54,7 @@ class MtFooter extends HTMLElement {
                 <div class="col-auto me-auto">
                     <ul class="list-inline text-left footer-icons">
                         <li class="list-inline-item border border-light rounded-circle text-center">
-                            <a class="text-light text-decoration-none" target="_blank" href="https://www.facebook.com/share/uYFgSizSX2SVBFrJ/?mibextid=CTbP7E"><i class="fab fa-facebook-f fa-lg fa-fw"></i></a>
+                            <a class="text-light text-decoration-none" target="_blank" href="https://www.facebook.com/people/Meetax-Multi/61570053180303/"><i class="fab fa-facebook-f fa-lg fa-fw"></i></a>
                         </li>
                         <li class="list-inline-item border border-light rounded-circle text-center">
                             <a class="text-light text-decoration-none" target="_blank" href="https://www.instagram.com/meetax.multiserviceinc?igsh=MTRmYm1obHhxMnF5bA=="><i class="fab fa-instagram fa-lg fa-fw"></i></a>

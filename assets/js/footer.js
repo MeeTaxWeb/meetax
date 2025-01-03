@@ -18,7 +18,7 @@ class MtFooter extends HTMLElement {
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
-                            <a class="text-decoration-none" href="tel:646-410-0294">646-410-0294</a>
+                            <a class="text-decoration-none" href="tel:888-531-3887">888-531-3887</a>
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
